@@ -29,5 +29,5 @@ Im Gonna Update It Every Fortnite Update To Keep It Work.
 
 # Credits 
 
-android#1336 - Source Owner
-Luksius#9147 - Updating It
+*android#1336 - Source Owner
+*Luksius#9147 - Updating It
