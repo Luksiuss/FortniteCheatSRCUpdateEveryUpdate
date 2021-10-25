@@ -1,6 +1,7 @@
-# Fortnite-cheat-source-internal-self-leak
-Here is my fortnite internal cheat source. I will update this every update.
-If u have any issue (not retarded) feel free to dm me on discord: android#1337
+# FortniteCheatSRCUpdateEveryUpdate
+Source Owner: android#1336
+Im Gonna Update It Every Fortnite Update To Keep It Work.
+
 
 # Features
 * Box ESP
@@ -22,12 +23,11 @@ If u have any issue (not retarded) feel free to dm me on discord: android#1337
 | Date         | Fixed / Changed / Added |
 | ------------ | ----------------------- |
 | 07/07/2021   | Released                |
-| 09/07/2021   | Updated ProcessEvent    |
-| 26/07/2021   | GoLang updated offsets  |
-| 03/08/2021   | GoLang updated offsets  |
-| 04/08/2021   | Fixed Crashing          |
+| 25/10/2021   | Updated                 |
+        
 
 
 # Credits 
 
-Me, https://github.com/GoLang1337 is updating it every update cause I cbf, some guys I dont remember who from where I pasted some functions, and https://github.com/homeless1337 (the base is from him and he helped me with some things).
+android#1336 - Source Owner
+Luksius#9147 - Updating It
