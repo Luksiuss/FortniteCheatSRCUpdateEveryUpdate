@@ -24,6 +24,7 @@ Im Gonna Update It Every Fortnite Update To Keep It Work.
 | ------------ | ----------------------- |
 | 07/07/2021   | Released                |
 | 25/10/2021   | Updated                 |
+| 11/3/2022    | Updated                 |
         
 
 
